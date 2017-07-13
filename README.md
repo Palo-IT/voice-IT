@@ -3,6 +3,8 @@ Playing around with Android's Speech-to-text &amp; Text-to-Speech; Setting up a 
 
 [![Demo](http://img.youtube.com/vi/u0rYmZlU3U0/0.jpg)](http://www.youtube.com/watch?v=u0rYmZlU3U0 "Demo")
 
+[![BarCamp](https://i.ytimg.com/vi/dxh80zClPTI/hqdefault.jpg)](https://www.youtube.com/embed/dxh80zClPTI "BarCamp")
+
 ## WHY, OH WHY
 Well, one of our clients wanted a Virtual Assistant hands free to handle orders like 'Send me a bunch of PRODUCT-X next week', 'Send the same as last week' or 'Wheres my stuff?!'
 Kind of like [Amazon's ECHO](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) or [Google HOME](https://home.google.com) 
@@ -52,3 +54,5 @@ Well, there's a bunch of things we would like to do:
     * Speech-to-text (offline ideally)
     * Text-to-speech
 * Use [Apache Jena](https://github.com/sbrunk/jena-android) to parse and search through the Ontology
+
+![BestOfWeb2017!](https://github.com/Palo-IT/voice-IT/blob/master/img/bestofweb.jpg)
